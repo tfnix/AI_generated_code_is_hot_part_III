@@ -18,7 +18,7 @@ _part II updates_
 276             print("7. 🚪 Exit program")
 277             print("==============================")
 278 
-279             choice = input("Enter your choice (1-7): ").strip()
+
 
 
 ```
