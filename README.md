@@ -2,6 +2,26 @@
 _part II updates_ 
 
 
+```python
+
+265 
+266         while True:
+267             print("\n==============================")
+268             print("      YOUTUBE SCRIPT MENU     ")
+269             print("==============================")
+270             print("1. List my playlists")
+271             print("2. Generate a new playlist")
+272             print("3. Edit playlist metadata (Title/Description)")
+273             print("4. Manage videos inside a playlist (View/Delete/Add)")
+274             print("5. Copy all videos from another playlist")
+275             print("6. Bulk remove videos by keyword")
+276             print("7. 🚪 Exit program")
+277             print("==============================")
+278 
+279             choice = input("Enter your choice (1-7): ").strip()
+
+
+```
 
 <b>Output</b>
 
